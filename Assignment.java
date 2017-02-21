@@ -1,3 +1,4 @@
+//Single Sprite
 public class Assignment
 {
 	int yPos;
